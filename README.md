@@ -1,7 +1,10 @@
 # SDcheat
-Just a small unlimited money cheat I made for Stardew Valley. My first time writing C#
+<p align="center">Just a small unlimited money cheat I made for Stardew Valley. My first time writing C#.</p>
 
+<p align="center">Partially made using https://www.youtube.com/watch?v=aXKEWa0_YJg&t=197s</p>
+
+<p align="center">Alot of things from the video did not work. Getting the Offsets from Cheat Engine in this video is great though.</p>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/62112812/202001007-9b373182-1c40-4152-b481-887bec88037d.png)">
+  <img width="460" height="300" src="https://github.com/c0d30d1n/SDcheat/blob/main/ConsoleApp1/SDcheat.jpg">
 </p>
