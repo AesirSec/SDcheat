@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDcheat", "ConsoleApp1\SDcheat.csproj", "{61A9D7AF-588B-42B7-B887-72D8CED46393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61A9D7AF-588B-42B7-B887-72D8CED46393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A9D7AF-588B-42B7-B887-72D8CED46393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A9D7AF-588B-42B7-B887-72D8CED46393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A9D7AF-588B-42B7-B887-72D8CED46393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E542A9E-C036-4CFE-B7A5-6118755C19C1}
+	EndGlobalSection
+EndGlobal
